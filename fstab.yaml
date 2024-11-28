@@ -1,5 +1,8 @@
 mountpoints:
-  /: author-p56818-e741270.adobeaemcloud.com/bin/franklin.delivery/jauriolesces/xwalksite2/main
+  /: 
+    url: author-p56818-e741270.adobeaemcloud.com/bin/franklin.delivery/jauriolesces/xwalksite2/main
+      type: markup
+    suffix: ".html"
   #/:
   #  url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
   #  type: "markup"
