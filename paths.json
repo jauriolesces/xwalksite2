@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/xwalksite2/:/",
-    "/content/xwalksite2/configuration:/.helix/config.json"
+    "/content/xwalksite2/:/"
   ]
 }
