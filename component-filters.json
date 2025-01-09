@@ -33,8 +33,6 @@
       "columns",
       "content-fragment",
       "fragment",
-      "form",
-      "form-embed",
       "teaser",
       "blockquote",
       "quote",
@@ -52,33 +50,6 @@
     "id": "carousel",
     "components": [
       "slide"
-    ]
-  },
-  {
-    "id": "form",
-    "components": [
-      "captcha",
-      "checkbox",
-      "checkbox-group",
-      "date-input",
-      "drop-down",
-      "email",
-      "file-input",
-      "form-button",
-      "form-fragment",
-      "form-image",
-      "form-reset-button",
-      "form-submit-button",
-      "modal",
-      "number-input",
-      "panel",
-      "plain-text",
-      "radio-group",
-      "rating",
-      "telephone-input",
-      "text-input",
-      "tnc",
-      "wizard"
     ]
   }
 ]
