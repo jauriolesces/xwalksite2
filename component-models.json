@@ -277,6 +277,17 @@
     ]
   },
   {
+    "id": "hero-video",
+    "fields": [
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "uri",
+        "label": "hero-video"
+      }
+    ]
+  },
+  {
     "id": "video",
     "fields": [
       {
