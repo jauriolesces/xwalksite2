@@ -284,6 +284,13 @@
         "valueType": "string",
         "name": "uri",
         "label": "hero-video"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
       }
     ]
   },
