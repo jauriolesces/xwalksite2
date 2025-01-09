@@ -283,7 +283,8 @@
         "component": "reference",
         "valueType": "string",
         "name": "hero-video",
-        "label": "Hero-video"
+        "label": "Hero-video",
+        "multi": false
       },
       {
         "component": "richtext",

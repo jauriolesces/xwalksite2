@@ -16,16 +16,6 @@ main .hero-video {
   min-height: 450px;
 }
 
-main .hero-video h1 {
-  font-family: Roboto,Arial,sans-serif;
-  font-size: 4rem;
-  font-weight: 700;
-  color: #ffffff;
-  text-align: left;
-  margin-bottom: 40px;
-  line-height: 1;
-}
-
 main .hero-video-banner {
   position: absolute;
   display: flex;
@@ -195,16 +185,6 @@ main .full-video-container .play-pause-fullscreen-button svg {
   margin: auto;
   opacity: 0;
   transition: .4s all linear;
-}
-
-.hero-video h1 {
-  font-family: Roboto,Arial,sans-serif;
-  font-size: 4rem;
-  font-weight: 700;
-  color: #ffffff;
-  text-align: left;
-  margin-bottom: 40px;
-  line-height: 1;
 }
 
 @media only screen and (width <= 1200px) {
