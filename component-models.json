@@ -280,10 +280,10 @@
     "id": "hero-video",
     "fields": [
       {
-        "component": "aem-content",
+        "component": "reference",
         "valueType": "string",
-        "name": "uri",
-        "label": "hero-video"
+        "name": "hero-video",
+        "label": "Hero-video"
       },
       {
         "component": "richtext",
